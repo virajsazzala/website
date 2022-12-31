@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://virajsazzala.xyz/</loc>
+    </url>
+    <url>
+        <loc>https://virajsazzala.xyz/about/</loc>
+    </url>
+    <url>
+        <loc>https://virajsazzala.xyz/blog/</loc>
+    </url>
+    <url>
+        <loc>https://virajsazzala.xyz/blog/first-blog/</loc>
+        <lastmod>2022-11-20</lastmod>
+    </url>
+    <url>
+        <loc>https://virajsazzala.xyz/blog/second-blog/</loc>
+        <lastmod>2022-11-22</lastmod>
+    </url>
+    <url>
+        <loc>https://virajsazzala.xyz/contact/</loc>
+    </url>
+</urlset>
